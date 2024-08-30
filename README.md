@@ -1,8 +1,8 @@
 
 
-Empresa Nunes Sports e foi solicitado pelo board da empresa que seja desenvolvido um sistema para **exibição**, **criação**, **edição** e **deleção** dos produtos vendidos pela companhia.
+Foi solicitado pelo board da Empresa Nunes Sports que fosse desenvolvido um sistema para **exibição**, **criação**, **edição** e **deleção** dos produtos vendidos pela companhia.
 
-# **Os requisitos necessários para a entrega são:**
+# Os requisitos necessários para a entrega são:
 
 # **Ter uma base de dados com uma tabela produtos com os campos:**
 
