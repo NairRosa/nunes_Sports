@@ -4,10 +4,10 @@ Foi solicitado pelo board da Empresa Nunes Sports que fosse desenvolvido um sist
 
 # Os requisitos necessários para a entrega são:
 
-# **Ter uma base de dados com uma tabela produtos com os campos:**
+**Ter uma base de dados com uma tabela produtos com os campos:**
 
 
-# **Nome do produto**
+*Nome do produto*
 
 # 
 
