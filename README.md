@@ -11,11 +11,11 @@ Foi solicitado pelo board da Empresa Nunes Sports que fosse desenvolvido um sist
 
 # 
 
-# **Código do produto**
+*Código do produto*
 
 # 
 
-# **Descrição do produto**
+*Descrição do produto*
 
 # 
 
@@ -23,12 +23,12 @@ Foi solicitado pelo board da Empresa Nunes Sports que fosse desenvolvido um sist
 
 # 
 
-# **Criar uma página web na tecnologia de sua preferência para o CRUD de produtos.**
+*Criar uma página web na tecnologia de sua preferência para o CRUD de produtos.*
 
 # 
 
-# **Nessa página o usuário deverá ter a habilidade de exibir os produtos em uma tabela, criar, editar e deletar produtos que estão salvos na base.**
+Nessa página o usuário deverá ter a habilidade de exibir os produtos em uma tabela, criar, editar e deletar produtos que estão salvos na base.
 
 # 
 
-# **Todas as ações na página deverão refletir no banco de dados**
+Todas as ações na página deverão refletir no banco de dados.
