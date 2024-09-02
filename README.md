@@ -1,6 +1,6 @@
 
 
-*Foi solicitado pelo board da Empresa Nunes Sports que fosse desenvolvido um sistema para **exibição**, **criação**, **edição** e **deleção** dos produtos vendidos pela companhia.*
+***Foi solicitado pelo board da Empresa Nunes Sports que fosse desenvolvido um sistema para **exibição**, **criação**, **edição** e **deleção** dos produtos vendidos pela companhia.***
 
 # Os requisitos necessários para a entrega são:
 
